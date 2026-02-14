@@ -1,0 +1,8 @@
+# Terraform
+**/.terraform/*
+*.tfstate
+*.tfstate.*
+terraform.tfstate.d/
+crash.log
+.DS_Store
+Thumbs.db
